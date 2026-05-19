@@ -84,3 +84,7 @@ Include: `src/`, `sql/`, `config/db.properties.example` (not your real password)
 ## AI disclosure
 
 If AI helped with code, state that clearly in your report and explain what the team tested and understood.
+
+## 祁雪菲是小猫
+
+嘻嘻
