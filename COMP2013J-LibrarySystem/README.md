@@ -85,13 +85,16 @@ Include: `src/`, `sql/`, `config/db.properties.example` (not your real password)
 
 If AI helped with code, state that clearly in your report and explain what the team tested and understood.
 
-## 祁雪菲是小猫
+## 祁雪菲是坏小猫
 
-嘻嘻
+不嘻嘻
 
-## 公辰和段斐若是好狗吗？
-请投票：
+[//]: # (## 公辰和段斐若是好狗吗？)
 
-1.是：
+[//]: # (请投票：)
 
-2.不是：/
+[//]: # ()
+[//]: # (1.是：)
+
+[//]: # ()
+[//]: # (2.不是：/)
