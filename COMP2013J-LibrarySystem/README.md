@@ -90,5 +90,8 @@ If AI helped with code, state that clearly in your report and explain what the t
 嘻嘻
 
 ## 公辰和段斐若是好狗吗？
+请投票：
+
 1.是：
+
 2.不是：/
